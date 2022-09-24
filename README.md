@@ -1986,4 +1986,6 @@ ORDER BY
 
  <br>  
 
-## Data Set: BusinessFinancing.co.uk 
+## Project Information: 
+* Data set: BusinessFinancing.co.uk
+* Completed through DataCamp: https://www.datacamp.com
